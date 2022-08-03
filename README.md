@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![](https://github.com/OrnellaTchinda/Advice-Generator/blob/c7e10f393b7d255a71b711a67e07c543272d8a19/images/Web%20capture_advice-generator-we-need.netlify.app.jpeg)
 
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
