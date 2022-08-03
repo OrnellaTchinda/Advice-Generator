@@ -106,3 +106,32 @@ footer {}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+@media (max-width: 1100px) {
+  .panel {
+    width: 40%;
+  }
+}
+
+@media (max-width: 860px) {
+  .panel {
+    width: 60%;
+  }
+}
+
+@media (max-width: 575px) {
+  .panel {
+    width: 80%;
+  }
+}
+
+@media (max-width: 400px) {
+  .panel {
+    width: 95%;
+  }
+}
+
+@media (max-width: 320px) {
+  .panel {
+    width: 100%;
+  }
+}
